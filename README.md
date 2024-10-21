@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Omar Benchbana!
 
 **Software Engineer | Web & Server Developer**  
-I'm currently studying Software Engineering and passionate about **Cybersecurity** and **Machine Learning**.
+I'm passionate about **Cybersecurity** and **Machine Learning**.
 
 🌍 Based in Finland  
 💻 I enjoy building real-world solutions and contributing to open-source projects!
